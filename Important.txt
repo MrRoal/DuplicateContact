@@ -1,0 +1,8 @@
+\crmcopy\layouts\vlayout\modules\Contacts\resources\Edit.js 
+	- Line number :  11-12, 178-278
+\crmcopy\modules\Contacts\actions\CheckDuplicate.php 
+	- New File
+\crmcopy\modules\Contacts\models\Record.php 
+	- Line number : 94-119
+\crmcopy\languages\en_gb\Contacts.php 
+	- Line number : 62
